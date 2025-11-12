@@ -9,9 +9,9 @@ Aplikasi ini menampilkan berbagai fitur sederhana seperti biodata, daftar kontak
 | Informasi | Keterangan |
 |------------|-------------|
 | **Nama** | Taras Al Fariz |
-| **NIM** | 1520230XX |
-| **Kelas** | IF-AA |
-| **Mata Kuliah** | Pemrograman Mobile |
+| **NIM** | 152023038 |
+| **Kelas** | AA |
+| **Mata Kuliah** | IFB-355 Pemrograman Mobile |
 | **Dosen Pengampu** | Galih Ashari R., S.Si., MT |
 | **Semester** | Ganjil 2025/2026 |
 
