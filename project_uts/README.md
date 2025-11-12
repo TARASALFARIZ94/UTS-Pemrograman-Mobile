@@ -1,4 +1,4 @@
-# 🌟 Aplikasi Mobile GOGOBOO
+<img width="318" height="699" alt="image" src="https://github.com/user-attachments/assets/5ed90ec4-54a7-4a41-847f-85707aa819e9" /># 🌟 Aplikasi Mobile GOGOBOO
 
 **GOGOBOO** adalah aplikasi mobile berbasis **Flutter** yang dikembangkan sebagai tugas **Ujian Tengah Semester (UTS) Pemrograman Mobile**.  
 Aplikasi ini menampilkan berbagai fitur sederhana seperti biodata, daftar kontak, kalkulator, cuaca, dan berita dengan desain interaktif dan dukungan mode gelap.
@@ -10,7 +10,7 @@ Aplikasi ini menampilkan berbagai fitur sederhana seperti biodata, daftar kontak
 |------------|-------------|
 | **Nama** | Taras Al Fariz |
 | **NIM** | 152023038 |
-| **Kelas** | AA |
+| **Kelas** | BB |
 | **Mata Kuliah** | IFB-355 Pemrograman Mobile |
 | **Dosen Pengampu** | Galih Ashari R., S.Si., MT |
 | **Semester** | Ganjil 2025/2026 |
@@ -21,7 +21,9 @@ Aplikasi ini menampilkan berbagai fitur sederhana seperti biodata, daftar kontak
 
 ### 🏁 1. Splash Screen  
 - Menampilkan judul aplikasi, nama, NIM, dan foto profil.  
-- Durasi 5 detik, lalu otomatis berpindah ke halaman Dashboard.  
+- Durasi 5 detik, lalu otomatis berpindah ke halaman Dashboard.
+<img width="318" height="699" alt="image" src="https://github.com/user-attachments/assets/b5cd3573-d858-4715-99ce-6fbdf5234277" />
+
 
 ### 🏠 2. Dashboard  
 - Halaman utama dengan **Bottom Navigation Bar**.  
@@ -33,6 +35,8 @@ Aplikasi ini menampilkan berbagai fitur sederhana seperti biodata, daftar kontak
   - 📰 Berita  
 - Menggunakan konsep **Fragment (IndexedStack)** agar tidak reload antar halaman.  
 - Dilengkapi **mode gelap otomatis** dan tombol toggle 🌙 / ☀️ di AppBar.
+<img width="322" height="699" alt="image" src="https://github.com/user-attachments/assets/91028f4a-bb65-45b4-8bf8-0d7c12e989c9" />
+
 
 ### 👨‍💻 3. Halaman Biodata  
 - Menampilkan foto profil dan data diri pengguna.  
@@ -43,11 +47,15 @@ Aplikasi ini menampilkan berbagai fitur sederhana seperti biodata, daftar kontak
   - Jenis Kelamin (RadioButton)
   - Tanggal Lahir (Date Picker)
 - Desain modern dengan layout responsif (scrollable).
+<img width="320" height="691" alt="image" src="https://github.com/user-attachments/assets/fffb41a4-4fb3-4542-95eb-d1a16a66cbc7" />
+
 
 ### 📇 4. Halaman Kontak  
 - Berisi **15 kontak telepon statis** dengan nama dan nomor.  
 - Menggunakan **ListView.builder** dengan **CircleAvatar** dan teks.  
-- Tampilan bersih dan rapi dengan warna lembut.  
+- Tampilan bersih dan rapi dengan warna lembut.
+<img width="318" height="699" alt="image" src="https://github.com/user-attachments/assets/fef63c3d-14ec-4fff-b141-14ae23207a96" />
+
 
 ### 🧮 5. Halaman Kalkulator  
 - Kalkulator sederhana dengan operasi:
@@ -59,22 +67,33 @@ Aplikasi ini menampilkan berbagai fitur sederhana seperti biodata, daftar kontak
   - Akar kuadrat (√)
   - Tombol hapus (C)
 - Desain tombol grid seperti kalkulator asli.
+<img width="318" height="698" alt="image" src="https://github.com/user-attachments/assets/60d1454f-6f87-4052-90e1-46eb7286cb96" />
+
 
 ### 🌤️ 6. Halaman Cuaca  
 - Menampilkan data cuaca **statis**: suhu, kelembapan, kondisi, dan ikon animasi cuaca.  
 - Kondisi cuaca: Cerah, Berawan, Hujan.  
 - Tampilan menggunakan **Card elegan** dengan icon cuaca yang responsif.
+<img width="318" height="699" alt="Screenshot 2025-11-12 215727" src="https://github.com/user-attachments/assets/e0c9ecea-8f1d-406e-8304-420b55660da5" />
+
+<img width="319" height="694" alt="image" src="https://github.com/user-attachments/assets/d0d90323-239a-4a4d-9911-84176ae60ee4" />
+
 
 ### 📰 7. Halaman Berita  
 - Menampilkan daftar berita **statis** (judul, sumber, tanggal, deskripsi, dan gambar).  
 - Menggunakan **ListView.builder** dengan layout kartu (card).  
-- Data berita diambil dari variabel list statis di dalam file Dart.  
+- Data berita diambil dari variabel list statis di dalam file Dart.
+<img width="324" height="697" alt="image" src="https://github.com/user-attachments/assets/3c0df8fb-e1a2-4d5b-974c-16647c8c0ab2" />
+
 
 ---
 
 ## 🌓 **Mode Gelap Otomatis**
-Aplikasi secara otomatis menyesuaikan dengan mode tema sistem (Light/Dark Mode).  
+Aplikasi secara otomatis menyesuaikan dengan mode tema sistem (Light/Dark Mode).
 Tersedia juga tombol toggle manual di AppBar untuk beralih antara mode terang 🌞 dan gelap 🌙.
+Toggle manual tersedia di AppBar seluruh halaman.
+<img width="318" height="38" alt="image" src="https://github.com/user-attachments/assets/39ec9c98-2243-4ff7-8887-935723fcba99" />
+
 
 ---
 
@@ -115,4 +134,4 @@ assets/
 1. Pastikan Flutter SDK sudah terinstal di komputer kamu.  
 2. Clone repositori ini:
    ```bash
-   git clone https://github.com/<username>/UTS-Pemrograman-Mobile.git
+   git clone https://github.com/TARASALFARIZ94/UTS-Pemrograman-Mobile.git
