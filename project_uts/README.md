@@ -1,4 +1,4 @@
-<img width="318" height="699" alt="image" src="https://github.com/user-attachments/assets/5ed90ec4-54a7-4a41-847f-85707aa819e9" /># 🌟 Aplikasi Mobile GOGOBOO
+# 🌟 Aplikasi Mobile GOGOBOO
 
 **GOGOBOO** adalah aplikasi mobile berbasis **Flutter** yang dikembangkan sebagai tugas **Ujian Tengah Semester (UTS) Pemrograman Mobile**.  
 Aplikasi ini menampilkan berbagai fitur sederhana seperti biodata, daftar kontak, kalkulator, cuaca, dan berita dengan desain interaktif dan dukungan mode gelap.
